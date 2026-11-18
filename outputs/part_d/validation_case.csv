@@ -1,0 +1,2 @@
+image_id,file,batch,line,camera,shift,timestamp_utc,exposure_setting,inspector_label,horizontal_asymmetry,vertical_asymmetry,predicted_defect,score
+IMG_0062,images/IMG_0062.jpg,BATCH-B,LINE-2,CAM-A,NIGHT,2026-11-04T07:15:00Z,AUTO,0,0.032589648914199895,0.06104300957506729,1,0.5134789579845437

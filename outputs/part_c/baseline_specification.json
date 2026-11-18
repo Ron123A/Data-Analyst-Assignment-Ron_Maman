@@ -1,0 +1,14 @@
+{
+  "model": "L2-regularized logistic regression",
+  "features": [
+    "horizontal_asymmetry",
+    "vertical_asymmetry"
+  ],
+  "iterations": 2000,
+  "l2_penalty": 0.01,
+  "threshold": 0.5,
+  "solver": "lbfgs",
+  "implementation": "scikit-learn StandardScaler + LogisticRegression Pipeline",
+  "regularization_mapping": "C = 1 / (development_record_count * l2_penalty)",
+  "status": "Fitted on development only; validation is evaluated separately in Part D"
+}

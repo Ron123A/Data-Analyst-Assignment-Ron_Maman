@@ -1,0 +1,6 @@
+Part D2 - One validation case
+The misclassified validation image closest to the fixed threshold was selected.
+Image: IMG_0062; inspector label: 0; predicted label: 1; score: 0.5135; threshold: 0.50.
+Left/right asymmetry: 0.0326; top/bottom asymmetry: 0.0610.
+The panel's lower lettering has no matching lettering above the upper row. Such normal design details contribute to top/bottom asymmetry; uneven illumination or imperfect alignment can raise the reflection differences further. The model can therefore flag an image even when the inspector labeled it normal. These are possible explanations for the disagreement, not proof that either label is correct.
+The score is a model output, not a calibrated probability. This review does not change the model or threshold.

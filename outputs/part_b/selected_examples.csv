@@ -1,0 +1,7 @@
+image_id,file,inspector_label,camera,exposure_setting,batch
+IMG_0085,images/IMG_0085.jpg,0,CAM-B,LOW,BATCH-B
+IMG_0137,images/IMG_0137.jpg,0,CAM-A,AUTO,BATCH-C
+IMG_0017,images/IMG_0017.jpg,0,CAM-B,LOW,BATCH-A
+IMG_0004,images/IMG_0004.jpg,1,CAM-A,NORMAL,BATCH-A
+IMG_0013,images/IMG_0013.jpg,1,CAM-B,AUTO,BATCH-A
+IMG_0159,images/IMG_0159.jpg,1,CAM-A,AUTO,BATCH-C

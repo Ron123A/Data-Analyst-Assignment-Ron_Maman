@@ -1,0 +1,1 @@
+Median horizontal asymmetry is 0.0308 for normal-labeled images and 0.0374 for defective-labeled images. The middle 50% asymmetry intervals overlap between the two label groups. This is a descriptive comparison, not a validation result or proof of product defects; uneven lighting, normal design details and alignment errors can also affect symmetry.

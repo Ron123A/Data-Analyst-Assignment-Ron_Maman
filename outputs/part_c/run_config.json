@@ -1,0 +1,26 @@
+{
+  "validation_fraction": 0.25,
+  "random_seed": 42,
+  "development_records": 126,
+  "validation_records": 42,
+  "feature_columns": [
+    "horizontal_asymmetry",
+    "vertical_asymmetry"
+  ],
+  "feature_definition": "Mean absolute differences from left/right and top/bottom reflections of the aligned, normalized panel",
+  "feature_settings": {
+    "panel_size": 128,
+    "border_crop_pixels": 6,
+    "normalization_percentiles": [
+      5,
+      95
+    ],
+    "minimum_foreground_fraction": 0.1,
+    "minimum_percentile_range": 1.0
+  },
+  "scikit_learn_version": "1.9.1",
+  "classifier_C": 0.7936507936507936,
+  "exact_pixel_duplicates": 0,
+  "split_scope": "Random image-level split; batches and cameras may appear in both subsets",
+  "limitation": "Exploratory Parts A-B used all labeled records; validation is held out from fitting, not prior exploration"
+}

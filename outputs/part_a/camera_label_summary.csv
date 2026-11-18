@@ -1,0 +1,3 @@
+camera,image_count,labeled_normal_count,labeled_defective_count,labeled_defective_percentage
+CAM-A,95,65,30,31.57894736842105
+CAM-B,73,47,26,35.61643835616438

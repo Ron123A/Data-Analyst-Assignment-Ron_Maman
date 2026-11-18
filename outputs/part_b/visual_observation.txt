@@ -1,0 +1,1 @@
+IMG_0013, which the inspector labeled defective, shows a dark triangular area interrupting the component's right edge. The three normal-labeled examples have continuous right edges. This difference is worth investigating, but six examples are not enough to establish a general rule or confirm the inspector's labels.

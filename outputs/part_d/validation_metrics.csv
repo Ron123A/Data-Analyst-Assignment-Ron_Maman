@@ -1,0 +1,2 @@
+validation_records,positive_label,threshold,true_negative,false_positive,false_negative,true_positive,precision,recall,roc_auc,precision_defined,recall_defined,roc_auc_defined
+42,1,0.5,22,6,9,5,0.45454545454545453,0.35714285714285715,0.6071428571428571,True,True,True
