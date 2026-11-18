@@ -30,14 +30,16 @@ The code has been tested with Python 3.14.2 and scikit-learn 1.9.1. Use the same
 
 ## Run
 
-Extract the ZIP, open a terminal inside `Ron_Maman_Assignment/` and run the following commands in order. The `data/` folder contains unchanged copies of the supplied CSV files and all 240 images, so no separate dataset download is needed:
+Clone or download this GitHub repository, open a terminal in the project's root directory (where `README.md` is located), and run the following commands in order:
 
-```text
+```bash
 python part_a.py --data-dir data --no-show
 python part_b.py --data-dir data --no-show
 python part_c.py --data-dir data --no-show
 python part_d.py --data-dir data --no-show
 ```
+
+The `data/` folder contains the original CSV files and all 240 images, so no additional dataset download is required.
 
 To use another copy of the original dataset, replace `data` with its folder path. That folder must contain `train.csv`, `test.csv` and `images/`. Image paths in the CSV are resolved relative to it.
 
